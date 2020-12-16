@@ -1,0 +1,89 @@
+ /* p{
+    color: darkred;
+}
+.buoc1{
+    color: darkgreen;
+}
+
+p{
+    color: darkslateblue;
+}
+.session1{
+    color: darkslateblue;
+}
+
+ div{
+    background-color: wheat;
+    color: deeppink;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bolder;
+    
+}   
+ 
+ div{
+    width: 200px;
+    height:200px;
+    background:wheat;
+    font-size:30px;
+    text-align:center;
+    line-height:200px;
+  
+    border: 3px double blue;
+    border-radius: 15px;
+} 
+
+div{
+    background: wheat;
+    width:400px;
+    border: 2px solid green;
+  
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    padding: 45px 40px 45px 40px;
+}
+
+#a >div {
+    background:wheat;
+    code vào phần bên dưới   
+    margin-left: 40px;
+    margin-right: 60px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /* margin: 50px 60px 50px 40px; */
+/* }  */
+  
+  
+  
+  
+  
+/* #a{
+    Không code vào đây */
+    /* border:1px solid black */
+/* } */
+
+/* div{
+    background: red;
+    display: inline;;
+} */
+
+/* #span1{
+    background: red;
+  }
+  #span2{
+    background:yellow;
+    display: inline-block;
+    width: 500px;
+  } */
+
+span{
+    background: red;
+    display: block;
+}
+div{
+    background: blue;
+    
+}
