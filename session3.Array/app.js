@@ -1,7 +1,7 @@
 // Array (C/R/U/D)
 // Khai bao
 // let arr = [];
-// Creat
+// Creat su dung .push
 // let movie = prompt(`nhap ten phim moi vao`);
 // arr.push(movie);
 // console.log(arr);
@@ -16,7 +16,7 @@
 // arr[j] = prompt(`phim moi update`);
 // console.log(arr);
 
-// Delete
+// Delete su dung .splice
 // let m = prompt(`vi tri can xoa`);
 // let n = prompt(`so phan tu can xoa`);
 // arr.splice(m,n);

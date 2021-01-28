@@ -146,11 +146,14 @@
 // console.log(child.parentElement)
 
 // Methos
-// .remove(), .appendChild(), .createElement()
+// .remove() xoa phan tu
+// .appendChild() them phan tu
+// .createElement() tao phan tu
+
 // const ul = document.getElementById("todo-list");
 // console.log(ul);
 
-// // B1: Tạo ra 1 the li
+// B1: Tạo ra 1 the li
 // const li = document.createElement("li");
 // console.log(li);
 // // B2: Gán nội dung cho li
@@ -183,19 +186,18 @@
 //     alert(input.value);
 // }
 
-const btn = document.getElementById("btn");
-
-btn.onclick = function () {
-    const li = document.createElement("li");
-    const input = document.getElementById("input");
-    // Tao li
-    li.innerText = input.value;
-    // Gan li vao ul
-    const ul = document.getElementById("todo-list");
-    ul.appendChild(li);
-    // Reset input
-    input.value = "";
-}
+// const btn = document.getElementById("btn");
+// btn.onclick = function () {
+//     const li = document.createElement("li");
+//     const input = document.getElementById("input");
+//     // Tao li
+//     li.innerText = input.value;
+//     // Gan li vao ul
+//     const ul = document.getElementById("todo-list");
+//     ul.appendChild(li);
+//     // Reset input
+//     input.value = "";
+// }
 
 
 
